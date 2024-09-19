@@ -511,6 +511,7 @@ li {
 
   .container {
     flex-direction: column;
+    padding: 0;
     background-color: rgba(248, 14, 14, 0);
   }
 
